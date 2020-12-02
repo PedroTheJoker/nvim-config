@@ -1,4 +1,5 @@
 call plug#begin('~/workspace/plugins-nvim')
+Plug 'joshdick/onedark.vim'  
 Plug 'morhetz/gruvbox'
 Plug 'ryanoasis/vim-devicons'
 Plug 'prettier/vim-prettier'
