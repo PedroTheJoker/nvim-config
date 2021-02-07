@@ -2,7 +2,7 @@ set mouse=a
 set title
 set number
 set relativenumber
-set clipboard=unnamed
+set clipboard+=unnamedplus
 syntax enable
 set expandtab
 set tabstop=4
