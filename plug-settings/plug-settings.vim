@@ -1,8 +1,7 @@
 colorscheme dracula
+highlight Normal ctermbg=none
+let g:dracula_colorterm = 0
 let g:NERDTreeQuitOnOpen = 1
-let g:onedark_termocolors = 256
-let g:onedark_terminal_italics = 1
-let g:onedark_hide_endofbuffer = 1
 let g:lexima_enable_basic_rules = 1
 let g:user_emmet_mode='n'
 let g:user_emmet_mode='inv'

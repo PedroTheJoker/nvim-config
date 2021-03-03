@@ -15,4 +15,4 @@ set laststatus=2
 set wrap
 set scrolloff=5
 set matchpairs+=<:>
-set sw=4
+set sw=2
