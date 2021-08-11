@@ -1,4 +1,4 @@
-colorscheme dracula
+colorscheme onedark
 highlight Normal ctermbg=none
 let g:dracula_colorterm = 0
 let g:NERDTreeQuitOnOpen = 1
