@@ -18,6 +18,7 @@ Plug 'mattn/emmet-vim'
 Plug 'tpope/vim-surround'
 Plug 'cohama/lexima.vim'
 Plug 'junegunn/fzf'
+Plug 'mxw/vim-jsx'
 Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'junegunn/fzf.vim'
 call plug#end()
